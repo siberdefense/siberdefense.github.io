@@ -1,8 +1,9 @@
 title: Siber Defense Club - Mount Si High School
 description: Home of the MSHS Siber Defense Club
-remote_theme: siberdefense/modernist@v0.2.1
 plugins:
 - jekyll-remote-theme
+- jekyll-include-cache
+remote_theme: mmistakes/minimal-mistakes
 show_downloads: false
 google_analytics: G-4ZM7GEW6GH
 github:
