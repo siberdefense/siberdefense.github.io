@@ -22,7 +22,7 @@ Alternate Wednesdays when school is in sesssion.
 
 Room 5102
 
-### 2023
+### 2023 Meetings
 - 1/4
 - 1/18
 - 2/1
@@ -35,3 +35,7 @@ Room 5102
 - 5/3
 - 5/17
 - 5/31
+
+## Contact
+
+Email SiberDefenseClub@svsd410.org for meeting dates and notifications.
