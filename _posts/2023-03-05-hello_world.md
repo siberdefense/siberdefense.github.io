@@ -8,3 +8,4 @@ tags:
   - standard
 ---
 
+Hello, world!
