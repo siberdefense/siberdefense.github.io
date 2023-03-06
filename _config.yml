@@ -1,3 +1,4 @@
+logo: "/assets/logo.jpg"
 title: Siber Defense Club @ Mount Si High School
 description: Home of the MSHS Siber Defense Club
 plugins:
@@ -9,3 +10,5 @@ show_downloads: false
 google_analytics: G-4ZM7GEW6GH
 github:
 - is_project_page: false
+atom_feed:
+- hide: true
