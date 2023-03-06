@@ -1,7 +1,3 @@
 main:
-  - title: "Posts"
-    url: /year-archive/
   - title: "About"
     url: /about/
-  - title: "Categories"
-    url: /categories/
