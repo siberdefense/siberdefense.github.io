@@ -1,6 +1,6 @@
 ---
 title: "About the Club"
-permalink: /about/
+permalink: "/about/"
 ---
 
 # What is Siber Defense Club at Mount Si High School?
