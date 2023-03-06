@@ -3,7 +3,7 @@ description: Home of the MSHS Siber Defense Club
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
-remote_theme: siberdefense/sibertheme
+remote_theme: https://siberdefense.club/sibertheme
 show_downloads: false
 google_analytics: G-4ZM7GEW6GH
 github:
