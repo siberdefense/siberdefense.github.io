@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Siber Defense Club - Mount Si High School
 description: Home of the MSHS Siber Defense Club
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme 
