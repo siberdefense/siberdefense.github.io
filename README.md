@@ -1,2 +1,3 @@
-# siberdefense.github.io
-Website of Mt Si High School Siber Defense Club
+[![MSHS Siber Defense Club Logo](assets/logo.jpg)](https://siberdefense.club)
+
+# Siber Defense Club @ Mount Si High School
