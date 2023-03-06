@@ -1,5 +1,4 @@
 ---
-title: "About the Club"
 permalink: "/about/"
 ---
 
