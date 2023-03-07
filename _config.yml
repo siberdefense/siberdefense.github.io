@@ -6,7 +6,7 @@ locale                   : "en-US"
 timezone                 : "America/Los_Angeles" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 title                    : "Siber Defense Club"
 title_separator          : "-"
-subtitle                 : "at Mount Si High School"
+subtitle                 : "@ Mount Si High School"
 description              : Home of the MSHS Siber Defense Club
 url                      : "https://siberdefense.club"
 logo                     : "/assets/images/logo.jpg"
