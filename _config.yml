@@ -20,6 +20,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/siberdefense/"
+atom_feed:
+  hide                   : true # blank (default) uses feed.xml
+
+
 
 # Social Sharing
 facebook:
