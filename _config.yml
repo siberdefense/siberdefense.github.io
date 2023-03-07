@@ -1,33 +1,89 @@
-logo: "/assets/images/logo.jpg"
-title: Siber Defense Club @ Mount Si High School
-description: Home of the MSHS Siber Defense Club
-plugins:
-- jekyll-remote-theme
-- jekyll-include-cache
 remote_theme: siberdefense/sibertheme
-include: ["_pages"]
-show_downloads: false
-site:
-  - atom_feed:
-    hide: true
-github:
-- is_project_page: false
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-US"
+timezone                 : "America/Los_Angeles" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+title                    : "Siber Defense Club"
+title_separator          : "-"
+subtitle                 : "at Mount Si High School"
+description              : Home of the MSHS Siber Defense Club
+url                      : "https://siberdefense.club"
+logo                     : "/assets/images/logo.jpg"
+
+# Social Sharing
+facebook:
+  username               : &facebook "SiberDefenseClub"
 social:
-  type: Organization # Person or Organization
-  name: Siber Defense Club  # If the user or organization name differs from the site's name
+  type                   : "Organization" # Person or Organization
+  name                   : "Siber Defense Club"  # If the user or organization name differs from the site's name
   links:
     - "https://www.youtube.com/@sibermshs"
     - "https://www.facebook.com/SiberDefenseClub"
+
+# Analytics
 analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-4ZM7GEW6GH"
     anonymize_ip: false # default
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+
+# Plugins
+plugins:
+- jekyll-remote-theme
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jemoji
+- jekyll-include-cache
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
