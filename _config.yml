@@ -7,9 +7,9 @@ plugins:
 remote_theme: siberdefense/sibertheme
 include: ["_pages"]
 show_downloads: false
-atom_feed:
-- hide: true
-google_analytics: G-4ZM7GEW6GH
+site:
+  - atom_feed:
+    hide: true
 github:
 - is_project_page: false
 defaults:
@@ -20,3 +20,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+social:
+  type: Organization # Person or Organization
+  name: Siber Defense Club  # If the user or organization name differs from the site's name
+  links:
+    - "https://www.youtube.com/@sibermshs"
+    - "https://www.facebook.com/SiberDefenseClub"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-4ZM7GEW6GH"
+    anonymize_ip: false # default
