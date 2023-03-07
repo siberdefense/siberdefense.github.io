@@ -25,7 +25,3 @@ Room 5102
 - 5/3
 - 5/17
 - 5/31
-
-## Contact
-
-Email SiberDefenseClub@svsd410.org for meeting dates and notifications.
