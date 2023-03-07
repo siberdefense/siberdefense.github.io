@@ -5,7 +5,7 @@ title: "Club Contact Info"
 
 ## Email the Coaches
 
-Email SiberDefenseClub@svsd410.org for meeting dates and notifications.
+Email [SiberDefenseClub@svsd410.org] for meeting dates and notifications.
 
 ## Join the Club Discord
 
