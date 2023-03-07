@@ -1,4 +1,4 @@
-remote_theme: siberdefense/sibertheme
+remote_theme             : siberdefense/sibertheme
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -23,10 +23,10 @@ social:
 
 # Analytics
 analytics:
-  provider: "google-gtag"
+  provider               : "google-gtag"
   google:
-    tracking_id: "G-4ZM7GEW6GH"
-    anonymize_ip: false # default
+    tracking_id          : "G-4ZM7GEW6GH"
+    anonymize_ip         : false # default
 
 # Reading Files
 include:
@@ -35,26 +35,26 @@ include:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+encoding                 : "utf-8"
+markdown_ext             : "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+markdown                 : kramdown
+highlighter              : rouge
+lsi                      : false
+excerpt_separator        : "\n\n"
+incremental              : false
 
 # Markdown Processing
 kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  input                  : GFM
+  hard_wrap              : false
+  auto_ids               : true
+  footnote_nr            : 1
+  entity_output          : as_char
+  toc_levels             : 1..6
+  smart_quotes           : lsquo,rsquo,ldquo,rdquo
+  enable_coderay         : false
 
 # Defaults
 defaults:
