@@ -7,6 +7,6 @@ title: "Resources"
 
 ### [PicoCTF](https://picoctf.org/)
 
-### (ångstromCTF)[https://angstromctf.com/]
+### [ångstromCTF](https://angstromctf.com/)
 
 ###

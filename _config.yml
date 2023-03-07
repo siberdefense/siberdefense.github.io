@@ -11,6 +11,16 @@ description              : Home of the MSHS Siber Defense Club
 url                      : "https://siberdefense.club"
 logo                     : "/assets/images/logo.jpg"
 
+# Site Footer
+footer:
+  links:
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@siberdefense"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/siberdefense/"
+
 # Social Sharing
 facebook:
   username               : &facebook "SiberDefenseClub"
@@ -18,7 +28,7 @@ social:
   type                   : "Organization" # Person or Organization
   name                   : "Siber Defense Club"  # If the user or organization name differs from the site's name
   links:
-    - "https://www.youtube.com/@sibermshs"
+    - "https://www.youtube.com/@siberdefense"
     - "https://www.facebook.com/SiberDefenseClub"
 
 # Analytics
