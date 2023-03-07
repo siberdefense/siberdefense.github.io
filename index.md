@@ -1,9 +1,5 @@
 [![MSHS Siber Defense Club Logo](assets/images/logo.jpg)](https://siberdefense.club)
 
-## What's Coming Up?
-
-Cyber, Capture the Flag, Internet Technology, and more...
-
 ## Meetings
 
 Alternate Wednesdays when school is in sesssion.
@@ -11,6 +7,8 @@ Alternate Wednesdays when school is in sesssion.
 2:45pm - 4:00pm
 
 Room 5102
+
+Open, free attendance. No experience required.
 
 ### 2023 Meetings
 - 1/4
