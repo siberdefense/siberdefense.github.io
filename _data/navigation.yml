@@ -1,3 +1,11 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Resources"
+    url: /resources/
+  - title: "Contact"
+    url: /contact/
+  - title: "Officers"
+    url: /officers/
+  - title: "MSHS"
+    url: "https://www.svsd410.org/mshs"

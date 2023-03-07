@@ -1,7 +1,5 @@
 [![MSHS Siber Defense Club Logo](assets/logo.jpg)](https://siberdefense.club)
 
-# Siber Defense Club
-
 ## What's Coming Up?
 
 Cyber, Capture the Flag, Internet Technology, and more...
