@@ -1,4 +1,6 @@
-## 2022-2023 Meeting Schedule
+---
+title: "2022-2023 Meeting Schedule"
+---
 
 **Who**: Open, free attendance. No experience required.
 
