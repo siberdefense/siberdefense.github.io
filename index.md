@@ -1,25 +1,15 @@
-[![MSHS Siber Defense Club Logo](assets/images/logo.jpg)](https://siberdefense.club)
+## 2022-2023 Meeting Schedule
 
-## Meetings
+**Who**: Open, free attendance. No experience required.
 
-Alternate Wednesdays when school is in sesssion.
+**When**: 2:45pm - 4:00pm on alternating Wednesdays when school is in sesssion.
 
-2:45pm - 4:00pm
+**Where**: Room 5102
 
-Room 5102
-
-Open, free attendance. No experience required.
-
-### 2023 Meetings
-- 1/4
-- 1/18
-- 2/1
-- 2/15
-- 3/1
-- 3/15
-- 3/29
-- 4/5
-- 4/19
-- 5/3
-- 5/17
-- 5/31
+| Month     | Days |
+| ----------| ------ |
+| January   | 4, 18  |
+| Feruary   | 1, 15  |
+| March     | 1, 15, 29  |
+| April     | 5, 19  |
+| May       | 3, 17  |
