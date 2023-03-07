@@ -1,4 +1,4 @@
-[![MSHS Siber Defense Club Logo](assets/logo.jpg)](https://siberdefense.club)
+[![MSHS Siber Defense Club Logo](assets/images/logo.jpg)](https://siberdefense.club)
 
 ## What's Coming Up?
 
