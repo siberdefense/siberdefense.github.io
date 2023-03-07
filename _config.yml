@@ -20,6 +20,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/siberdefense/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/SiberDefenseClub"
+
 atom_feed:
   hide                   : true # blank (default) uses feed.xml
 
