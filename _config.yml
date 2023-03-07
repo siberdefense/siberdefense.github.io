@@ -5,7 +5,6 @@ plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
 remote_theme: siberdefense/sibertheme
-#remote_theme: mmistakes/minimal-mistakes
 include: ["_pages"]
 show_downloads: false
 google_analytics: G-4ZM7GEW6GH

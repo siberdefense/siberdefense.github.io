@@ -1,8 +1,7 @@
 ---
 permalink: "/about/"
+title: "What is Siber Defense Club at Mount Si High School?"
 ---
-
-# What is Siber Defense Club at Mount Si High School?
 
 Siber (Cyber) Defense is an Associated Student Body club at Mount Si High School (Snoqualmie, WA) that discusses, uses, and shares the principles of technology and information security. Together, we explore various ways that technology and the people who use it are vulnerable and how to protect against malicious activity.
 

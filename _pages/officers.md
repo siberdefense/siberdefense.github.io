@@ -1,8 +1,7 @@
 ---
 permalink: "/officers/"
+title: "2022-2023 Club Officers"
 ---
-
-# 2023 Club Officers
 
 ## President
 
