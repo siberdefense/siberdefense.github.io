@@ -7,6 +7,8 @@ plugins:
 remote_theme: siberdefense/sibertheme
 include: ["_pages"]
 show_downloads: false
+atom_feed:
+- hide: true
 google_analytics: G-4ZM7GEW6GH
 github:
 - is_project_page: false
