@@ -4,9 +4,9 @@ title: "2022-2023 Meeting Schedule"
 
 ## Who
 
-![We Want You!](/assets/images/wewantyou.png){: width="250" }
-
 **All MSHS students!**
+
+![We Want You!](/assets/images/wewantyou.png){: width="250" }
 
 Attendance is free and always open.
 
@@ -19,6 +19,8 @@ sometimes having your own device is helpful to experiment with new software
 tools.
 
 ## What
+
+![Hack](/assets/images/hack.png){: width="250" }
 
 Work with teammates to solve hands on information security challenges.
 
