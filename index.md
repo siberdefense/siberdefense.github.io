@@ -1,5 +1,5 @@
 ---
-title: "2022-2023 Meeting Schedule"
+title: "MSHS Siber Defense Club"
 ---
 
 ## Who
@@ -34,6 +34,8 @@ MSHS room 5102
 ## When
 
 2:45pm - 4:00pm on alternating Wednesdays when school is in session.
+
+### 2022-2023 Meeting Schedule
 
 | Month     | Days       |
 | ----------| -----------|
