@@ -22,8 +22,6 @@ tools.
 
 **Solve hands on information security challenges.**
 
-![Hack](/assets/images/hack.png){: width="250" }
-
 A typical meeting starts with a topic introduction and then students dive into a
 challenge with instructors there to help.
 
@@ -50,3 +48,5 @@ MSHS room 5102
 Defensive techniques come from lessons learned following attacks.
 
 We train like hackers to be better defenders.
+
+![Hack](/assets/images/hack.png){: width="250" }
