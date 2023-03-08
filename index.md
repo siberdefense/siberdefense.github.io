@@ -49,6 +49,6 @@ MSHS room 5102
 
 Defensive techniques come from lessons learned following attacks.
 
-We train like hackers to be better defenders.
-
 ![Hack](/assets/images/hack.png){: width="250" }
+
+We train like hackers to be better defenders.
