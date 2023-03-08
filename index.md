@@ -1,5 +1,5 @@
 ---
-title: "MSHS Siber Defense Club"
+title: "Join the MSHS Siber Defense Club"
 ---
 
 ## Who
