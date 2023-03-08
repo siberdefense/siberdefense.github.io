@@ -33,9 +33,9 @@ MSHS room 5102
 
 ## When
 
-2:45pm - 4:00pm on alternating Wednesdays when school is in session.
+**2022-2023 Meeting Schedule**
 
-### 2022-2023 Meeting Schedule
+2:45pm - 4:00pm on alternating Wednesdays when school is in session.
 
 | Month     | Days       |
 | ----------| -----------|
@@ -47,7 +47,7 @@ MSHS room 5102
 
 ## Why
 
-Defensive techniques come from lessons learned following attacks.
+**Defensive techniques come from lessons learned following attacks.**
 
 ![Hack](/assets/images/hack.png){: width="250" }
 
