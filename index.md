@@ -20,12 +20,12 @@ tools.
 
 ## What
 
+**Solve hands on information security challenges.**
+
 ![Hack](/assets/images/hack.png){: width="250" }
 
-Work with teammates to solve hands on information security challenges.
-
-A typical meeting starts with a topic introduction and then we dive into a
-challenge.
+A typical meeting starts with a topic introduction and then students dive into a
+challenge with instructors there to help.
 
 We encourage students to work together and help each other.
 
