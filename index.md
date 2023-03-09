@@ -52,7 +52,7 @@ MSHS room 5102
 
 ## Why
 
-<figure style="width: 250px" class="align-left">
+<figure style="width: 250px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hack.png" alt="Hack!">
 </figure>
 
