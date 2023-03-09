@@ -1,18 +1,18 @@
 ---
 title: "Join the MSHS Siber Defense Club"
-header:
-  image: /assets/images/banner.png
-  image_description: "Hack the Planet"
+#header:
+#  image: /assets/images/banner.png
+#  image_description: "Hack the Planet"
 ---
 
 ## Who
-
-**All MSHS students!**
 
 <figure style="width: 250px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/wewantyou.png" alt="">
   <figcaption>We Want You!</figcaption>
 </figure>
+
+**All MSHS students!**
 
 Attendance is free and always open.
 
@@ -53,8 +53,8 @@ MSHS room 5102
 
 ## Why
 
-**Defensive techniques come from lessons learned following attacks.**
-
 ![Hack](/assets/images/hack.png){: width="250" }
+
+**Defensive techniques come from lessons learned following attacks.**
 
 We train like hackers to be better defenders.
