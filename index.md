@@ -1,12 +1,18 @@
 ---
 title: "Join the MSHS Siber Defense Club"
+header:
+  image: /assets/images/banner.png
+  image_description: "Hack the Planet"
 ---
 
 ## Who
 
 **All MSHS students!**
 
-![We Want You!](/assets/images/wewantyou.png){: width="250" }
+<figure style="width: 250px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/wewantyou.png" alt="">
+  <figcaption>We Want You!</figcaption>
+</figure>
 
 Attendance is free and always open.
 
