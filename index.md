@@ -52,10 +52,10 @@ MSHS room 5102
 
 ## Why
 
+**Defensive techniques come from lessons learned following attacks.**
+
 <figure style="width: 250px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hack.png" alt="Hack!">
 </figure>
-
-**Defensive techniques come from lessons learned following attacks.**
 
 We train like hackers to be better defenders.
