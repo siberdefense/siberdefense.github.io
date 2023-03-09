@@ -93,11 +93,11 @@ defaults:
 plugins:
 - jekyll-remote-theme
 - jekyll-paginate
-- jekyll-sitemap
 - jekyll-gist
 - jekyll-feed
 - jemoji
 - jekyll-include-cache
+- jekyll-sitemap
 
 # HTML Compression
 # - http://jch.penibelst.de/
