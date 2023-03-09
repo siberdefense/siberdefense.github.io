@@ -7,7 +7,7 @@ title: "Join the MSHS Siber Defense Club"
 
 ## Who
 
-<figure style="width: 250px" class="align-left">
+<figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/wewantyou.png" alt="We want you!">
 </figure>
 
