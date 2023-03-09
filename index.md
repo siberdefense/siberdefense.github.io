@@ -8,8 +8,7 @@ title: "Join the MSHS Siber Defense Club"
 ## Who
 
 <figure style="width: 250px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/wewantyou.png" alt="">
-  <figcaption>We Want You!</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/wewantyou.png" alt="We want you!">
 </figure>
 
 **All MSHS students!**
@@ -53,7 +52,9 @@ MSHS room 5102
 
 ## Why
 
-![Hack](/assets/images/hack.png){: width="250" }
+<figure style="width: 250px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hack.png" alt="Hack!">
+</figure>
 
 **Defensive techniques come from lessons learned following attacks.**
 
