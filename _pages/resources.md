@@ -5,6 +5,10 @@ title: "Resources"
 
 Assorted resources referenced during club meetings.
 
+##  Career Resources
+
+- [The Cyber Security Profession](https://docs.google.com/presentation/d/1-s8vyxrRhlyQDaov2C8ct-h9T8kmwJBWKd2Nh_HXSjU/edit?hl=en&forcehl=1#slide=id.p) - presentation slides
+
 ## Vulnerability Tools
 
 - [ExploitDB](https://www.exploit-db.com)
