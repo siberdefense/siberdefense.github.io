@@ -1,8 +1,5 @@
 ---
 title: "Join the MSHS Siber Defense Club"
-#header:
-#  image: /assets/images/banner.png
-#  image_description: "Hack the Planet"
 ---
 
 ## Who

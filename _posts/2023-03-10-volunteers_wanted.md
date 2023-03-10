@@ -1,5 +1,5 @@
 ---
-title: "Volunteers Needed"
+title: "Volunteer Instructors Welcome"
 categories:
   - recruiting
 tags:
