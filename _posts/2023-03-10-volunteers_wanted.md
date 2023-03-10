@@ -5,7 +5,8 @@ categories:
 tags:
   - volunteering
 header:
-  teaser: "/assets/images/banner.png"
+   image: /assets/images/banner.png
+   image_description: "Hack the Planet"
 ---
 [Hackers of the World Unite](https://www.youtube.com/watch?v=l6gXhPFHRDo)
 
