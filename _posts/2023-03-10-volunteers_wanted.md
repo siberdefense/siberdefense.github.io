@@ -12,6 +12,6 @@ Are you a cyber security professional with a connection to Mount Si High School?
 
 With all the awesome tech talent in and around the Snoqualmie Valley we're sure there's more volunteers willing to get involved. We've all got day jobs and life happens, so you don't have to make every session. The more help we have the better experience we can give to a wider variety of students. All skill disciplines and skill fields are welcome. Everyone in the field has something valuable to add.
 
-Get started by introducing yourself to the coaches at [SiberDefenseClub@svsd410.org](mailto:SiberDefenseClub@svsd410.org).
+Get started by introducing yourself to the coaches at [SiberDefenseClub@svsd410.org](mailto:SiberDefenseClub@svsd410.org). We'd love to tell you what we're up to and set you up for success.
 
 [Hackers of the World Unite](https://www.youtube.com/watch?v=l6gXhPFHRDo)!
