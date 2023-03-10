@@ -9,10 +9,10 @@ Assorted resources referenced during club meetings.
 
 - [The Cyber Security Profession](https://docs.google.com/presentation/d/1-s8vyxrRhlyQDaov2C8ct-h9T8kmwJBWKd2Nh_HXSjU/edit?hl=en&forcehl=1#slide=id.p) - presentation slides
 
-## Vulnerability Tools
+## Vulnerability Discovery & Exploitation Tools
 
 - [ExploitDB](https://www.exploit-db.com)
-- [legion](https://github.com/GoVanguard/legion)
+- [Legion](https://github.com/GoVanguard/legion)
 - [Metasploit Framwork](https://github.com/rapid7/metasploit-framework)
 - **Web Tools**
 	- [Sqlmap](https://sqlmap.org)
