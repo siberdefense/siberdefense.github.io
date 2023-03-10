@@ -4,7 +4,7 @@ title: "Join the MSHS Siber Defense Club"
 
 ## Who
 
-<figure style="width: 250px" class="align-right">
+<figure style="width: 200px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/mshs_wildcats_logo.png" alt="Mount Si Wildcats">
 </figure>
 
