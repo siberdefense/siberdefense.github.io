@@ -18,7 +18,8 @@ Science courses available at MSHS to supercharge your security skills.
 
 Bring your laptop! Most exercises work with district-provided devices, but
 sometimes having your own device is helpful to experiment with new software
-tools.
+tools. In these cases the club has a limited quantity of devices that students
+may borrow during club meetings.
 
 ## What
 
