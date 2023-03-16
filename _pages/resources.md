@@ -49,3 +49,7 @@ Assorted resources referenced during club meetings.
 - [hping3](https://www.kali.org/tools/hping3/)
 - [OpenVPN](https://openvpn.net/community-resources/how-to/)
 - [Common port numbers](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
+
+## Misc.
+
+- [MSHS Field Trip Permission Form](https://www.svsd410.org/cms/lib/WA01919490/Centricity/Domain/229/Fieldtrip_Form_for_Students_2015.pdf)
