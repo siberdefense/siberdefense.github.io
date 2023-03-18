@@ -8,14 +8,12 @@ Assorted resources referenced during club meetings.
 ##  Career Resources
 
 - [The Cyber Security
-  Profession](https://docs.google.com/presentation/d/1-s8vyxrRhlyQDaov2C8ct-h9T8kmwJBWKd2Nh_HXSjU/edit?hl=en&forcehl=1#slide=id.p)
-  - presentation slides
+  Profession](https://docs.google.com/presentation/d/1-s8vyxrRhlyQDaov2C8ct-h9T8kmwJBWKd2Nh_HXSjU/edit?hl=en&forcehl=1#slide=id.p) - presentation slides
 
 ## Software Reverse Engineering
 
 - [Reverse Engineering for Beginners](/assets/docs/RE4B-EN.pdf)
 - [Intel Instruction Set Reference](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
-
 
 ## Vulnerability Discovery & Exploitation Tools
 
@@ -33,16 +31,16 @@ Assorted resources referenced during club meetings.
 - [PicoCTF](https://picoctf.org/)
 - [ångstromCTF](https://angstromctf.com/)
 
-
 ## Crytography
 
 - [John the Ripper](https://www.openwall.com/john)
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
 - [Cryptii Tool](https://cryptii.com/)
-
-## Data Manipulation
-
 - [CyberChef](https://gchq.github.io/CyberChef/)
+
+## Editors
+
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [010 Editor](https://www.sweetscape.com/010editor/)
 
 ## Steganography
