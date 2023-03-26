@@ -14,6 +14,7 @@ Assorted resources referenced during club meetings.
 
 - [Reverse Engineering for Beginners](/assets/docs/RE4B-EN.pdf)
 - [Intel Instruction Set Reference](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+- [File Format Visualization](https://github.com/corkami/pics/tree/master/binary#file-formats)
 
 ## Vulnerability Discovery & Exploitation Tools
 
