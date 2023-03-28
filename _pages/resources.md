@@ -10,6 +10,10 @@ Assorted resources referenced during club meetings.
 - [The Cyber Security
   Profession](https://docs.google.com/presentation/d/1-s8vyxrRhlyQDaov2C8ct-h9T8kmwJBWKd2Nh_HXSjU/edit?hl=en&forcehl=1#slide=id.p) - presentation slides
 
+## Programming
+
+- [Cracking codes with Python](https://inventwithpython.com/cracking/)
+
 ## Software Reverse Engineering
 
 - [Reverse Engineering for Beginners](/assets/docs/RE4B-EN.pdf)
@@ -27,12 +31,18 @@ Assorted resources referenced during club meetings.
 	- [gobuster](https://github.com/OJ/gobuster)
 	- [wafw00f](https://github.com/EnableSecurity/wafw00f)
 
-## Capture the Flag
+## Training
 
-- [PicoCTF](https://picoctf.org/)
-- [ångstromCTF](https://angstromctf.com/)
+- [Roppers Academy: Computing Fundamentals](https://www.roppers.org/courses/fundamentals)
+- [Roppers Academy: Practical Networking](https://www.roppers.org/courses/networking)
+- [Roppers Academy: CTF Bootcamp](https://www.roppers.org/courses/ctf)
+- [PicoCTF Practice Gym](https://play.picoctf.org/practice)
+- [ångstromCTF](https://angstromctf.com/) Archives: [2022](https://2022.angstromctf.com/),
+  [2021](https://2021.angstromctf.com/), [2020](https://2020.angstromctf.com/),
+  [2019](https://2019.angstromctf.com/), [2018](https://2018.angstromctf.com/), [2017](https://2017.angstromctf.com/)
+- [DFIRDiva's Resources](https://training.dfirdiva.com/listing-category/training-for-kids)
 
-## Crytography
+## Cryptography
 
 - [John the Ripper](https://www.openwall.com/john)
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
@@ -57,6 +67,7 @@ Assorted resources referenced during club meetings.
 - [OpenVPN](https://openvpn.net/community-resources/how-to/)
 - [Common port numbers](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/)
 
-## Misc.
+## MSHS Resources
 
 - [MSHS Field Trip Permission Form](https://www.svsd410.org/cms/lib/WA01919490/Centricity/Domain/229/Fieldtrip_Form_for_Students_2015.pdf)
+- [ASB Club Training](https://docs.google.com/presentation/d/1-BAtITMFUHVacUXRvlAvMTE6vxTfVwMvQhCcRWjpyjU/edit#slide=id.p)
