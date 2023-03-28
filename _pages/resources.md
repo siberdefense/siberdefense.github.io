@@ -34,6 +34,7 @@ Assorted resources referenced during club meetings.
 
 ## Crytography
 
+- [ciphey](https://github.com/ciphey/ciphey)
 - [John the Ripper](https://www.openwall.com/john)
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
 - [Cryptii Tool](https://cryptii.com/)
