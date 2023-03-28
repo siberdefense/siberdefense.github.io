@@ -25,6 +25,7 @@ Assorted resources referenced during club meetings.
 - [ExploitDB](https://www.exploit-db.com)
 - [Legion](https://github.com/GoVanguard/legion)
 - [Metasploit Framwork](https://github.com/rapid7/metasploit-framework)
+
 - **Web Tools**
 	- [Sqlmap](https://sqlmap.org)
 	- [Burpsuite](https://portswigger.net/burp/communitydownload)
@@ -44,6 +45,7 @@ Assorted resources referenced during club meetings.
 
 ## Cryptography
 
+- [Ciphey](https://github.com/ciphey/ciphey)
 - [John the Ripper](https://www.openwall.com/john)
 - [Cipher Tools](http://rumkin.com/tools/cipher/)
 - [Cryptii Tool](https://cryptii.com/)
