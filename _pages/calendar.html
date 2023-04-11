@@ -1,134 +1,131 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>2023 Monthly Calendar</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
+---
+permalink: "/calendar/"
+title: "2023 Monthly Calendar"
+---
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
 
-    table {
-      border-collapse: collapse;
-    }
+  table {
+    border-collapse: collapse;
+  }
 
-    th, td {
-      width: 40px;
-      height: 40px;
-      text-align: center;
-      border: 1px solid #ccc;
-    }
+  th, td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #ccc;
+  }
 
-    th {
-      background-color: #f2f2f2;
-      font-weight: bold;
-    }
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
 
-    td {
-      background-color: #fff;
-    }
+  td {
+    background-color: #fff;
+  }
 
-    .firstMonday {
-      background-color: #10bee6;
-    }
+  .firstMonday {
+    background-color: #10bee6;
+  }
 
-    select {
-      margin-bottom: 10px;
-    }
-  </style>
+  select {
+    margin-bottom: 10px;
+  }
+</style>
 </head>
 <body>
-  <p>2023 Monthly Event Calendar</p>
-  <div>
-    <select id="monthSelect">
-      <option value="0">January</option>
-      <option value="1">February</option>
-      <option value="2">March</option>
-      <option value="3">April</option>
-      <option value="4">May</option>
-      <option value="5">June</option>
-      <option value="6">July</option>
-      <option value="7">August</option>
-      <option value="8">September</option>
-      <option value="9">October</option>
-      <option value="10">November</option>
-      <option value="11">December</option>
-    </select>
-    <table id="calendar">
-      <thead>
-        <tr>
-          <th>Sun</th>
-          <th>Mon</th>
-          <th>Tue</th>
-          <th>Wed</th>
-          <th>Thu</th>
-          <th>Fri</th>
-          <th>Sat</th>
-        </tr>
-      </thead>
-      <tbody id="calendarBody">
-      </tbody>
-    </table>
-  </div>
-  <script>
-    function daysInMonth(month, year) {
-      return new Date(year, month + 1, 0).getDate();
-    }
+<p>2023 Monthly Event Calendar</p>
+<div>
+  <select id="monthSelect">
+    <option value="0">January</option>
+    <option value="1">February</option>
+    <option value="2">March</option>
+    <option value="3">April</option>
+    <option value="4">May</option>
+    <option value="5">June</option>
+    <option value="6">July</option>
+    <option value="7">August</option>
+    <option value="8">September</option>
+    <option value="9">October</option>
+    <option value="10">November</option>
+    <option value="11">December</option>
+  </select>
+  <table id="calendar">
+    <thead>
+      <tr>
+        <th>Sun</th>
+        <th>Mon</th>
+        <th>Tue</th>
+        <th>Wed</th>
+        <th>Thu</th>
+        <th>Fri</th>
+        <th>Sat</th>
+      </tr>
+    </thead>
+    <tbody id="calendarBody">
+    </tbody>
+  </table>
+</div>
+<script>
+  function daysInMonth(month, year) {
+    return new Date(year, month + 1, 0).getDate();
+  }
 
-    function createCalendar(month, year) {
-      const calendarBody = document.querySelector('#calendarBody');
-      calendarBody.innerHTML = '';
+  function createCalendar(month, year) {
+    const calendarBody = document.querySelector('#calendarBody');
+    calendarBody.innerHTML = '';
 
-      const firstDay = new Date(year, month, 1).getDay();
-      const totalDays = daysInMonth(month, year);
-      let firstMondayFound = false;
+    const firstDay = new Date(year, month, 1).getDay();
+    const totalDays = daysInMonth(month, year);
+    let firstMondayFound = false;
 
-      let day = 1;
-      for (let i = 0; i < 6; i++) {
-        const row = document.createElement('tr');
+    let day = 1;
+    for (let i = 0; i < 6; i++) {
+      const row = document.createElement('tr');
 
-        for (let j = 0; j < 7; j++) {
-          const cell = document.createElement('td');
+      for (let j = 0; j < 7; j++) {
+        const cell = document.createElement('td');
 
-          if ((i === 0 && j < firstDay) || day > totalDays) {
-            cell.innerHTML = '';
-          } else {
-            cell.innerHTML = day;
+        if ((i === 0 && j < firstDay) || day > totalDays) {
+          cell.innerHTML = '';
+        } else {
+          cell.innerHTML = day;
 
-            if (!firstMondayFound && j === 1) {
-              cell.classList.add('firstMonday');
-              firstMondayFound = true;
-            }
-
-            day++;
+          if (!firstMondayFound && j === 1) {
+            cell.classList.add('firstMonday');
+            firstMondayFound = true;
           }
 
-          row.appendChild(cell);
+          day++;
         }
-        calendarBody.appendChild(row);
 
-        if (day > totalDays) {
-          break;
-        }
+        row.appendChild(cell);
+      }
+      calendarBody.appendChild(row);
+
+      if (day > totalDays) {
+        break;
       }
     }
+  }
 
-    const monthSelect = document.querySelector('#monthSelect');
-    monthSelect.addEventListener('change', (e) => {
-      const month = parseInt(e.target.value);
-      createCalendar(month, 2023);
-    });
+  const monthSelect = document.querySelector('#monthSelect');
+  monthSelect.addEventListener('change', (e) => {
+    const month = parseInt(e.target.value);
+    createCalendar(month, 2023);
+  });
 
-    const currentDate = new Date();
-    const currentMonth = currentDate.getMonth();
-    monthSelect.value = currentMonth;
-    createCalendar(currentMonth, 2023);
-  </script>
+  const currentDate = new Date();
+  const currentMonth = currentDate.getMonth();
+  monthSelect.value = currentMonth;
+  createCalendar(currentMonth, 2023);
+</script>
 </body>
-</html>
