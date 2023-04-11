@@ -36,6 +36,10 @@ title: "2023 Monthly Event Calendar"
     background-color: #10bee6;
   }
 
+  .specialDate {
+    background-color: #ba34eb;
+  }
+
   select {
     margin-bottom: 10px;
   }
@@ -43,6 +47,11 @@ title: "2023 Monthly Event Calendar"
 </head>
 <body>
 <div>
+  <select id="yearSelect">
+    <option value="2022">2022</option>
+    <option value="2023">2023</option>
+    <!-- Add more years as needed -->
+  </select>
   <select id="monthSelect">
     <option value="0">January</option>
     <option value="1">February</option>
@@ -78,6 +87,16 @@ title: "2023 Monthly Event Calendar"
     return new Date(year, month + 1, 0).getDate();
   }
 
+  function isSpecialDate(year, month, day) {
+    const date = new Date(year, month, day);
+    const specialDates = [
+      { start: new Date(year, 2, 14), end: new Date(year, 2, 28) },
+      { start: new Date(year, 3, 21), end: new Date(year, 3, 26) },
+    ];
+
+    return specialDates.some(range => date >= range.start && date <= range.end);
+  }
+
   function createCalendar(month, year) {
     const calendarBody = document.querySelector('#calendarBody');
     calendarBody.innerHTML = '';
@@ -90,41 +109,55 @@ title: "2023 Monthly Event Calendar"
     for (let i = 0; i < 6; i++) {
       const row = document.createElement('tr');
 
-      for (let j = 0; j < 7; j++) {
-        const cell = document.createElement('td');
+        for (let j = 0; j < 7; j++) {
+          const cell = document.createElement('td');
 
-        if ((i === 0 && j < firstDay) || day > totalDays) {
-          cell.innerHTML = '';
-        } else {
-          cell.innerHTML = day;
+          if ((i === 0 && j < firstDay) || day > totalDays) {
+            cell.innerHTML = '';
+          } else {
+            cell.innerHTML = day;
 
-          if (!firstMondayFound && j === 1) {
-            cell.classList.add('firstMonday');
-            firstMondayFound = true;
+            if (!firstMondayFound && j === 1 && (month >= 7 || month <= 5)) {
+              cell.classList.add('firstMonday');
+              firstMondayFound = true;
+            }
+
+            if (isSpecialDate(year, month, day)) {
+              cell.classList.add('specialDate');
+            }
+
+            day++;
           }
 
-          day++;
+          row.appendChild(cell);
         }
+        calendarBody.appendChild(row);
 
-        row.appendChild(cell);
-      }
-      calendarBody.appendChild(row);
-
-      if (day > totalDays) {
-        break;
+        if (day > totalDays) {
+          break;
+        }
       }
     }
-  }
 
-  const monthSelect = document.querySelector('#monthSelect');
-  monthSelect.addEventListener('change', (e) => {
-    const month = parseInt(e.target.value);
-    createCalendar(month, 2023);
-  });
+    const yearSelect = document.querySelector('#yearSelect');
+    const monthSelect = document.querySelector('#monthSelect');
+    
+    yearSelect.addEventListener('change', (e) => {
+      const year = parseInt(e.target.value);
+      const month = parseInt(monthSelect.value);
+      createCalendar(month, year);
+    });
 
-  const currentDate = new Date();
-  const currentMonth = currentDate.getMonth();
-  monthSelect.value = currentMonth;
-  createCalendar(currentMonth, 2023);
-</script>
-</body>
+    monthSelect.addEventListener('change', (e) => {
+      const month = parseInt(e.target.value);
+      const year = parseInt(yearSelect.value);
+      createCalendar(month, year);
+    });
+
+    const currentDate = new Date();
+    const currentYear = currentDate.getFullYear();
+    const currentMonth = currentDate.getMonth();
+    yearSelect.value = currentYear;
+    monthSelect.value = currentMonth;
+    createCalendar(currentMonth, currentYear);
+  </script>
