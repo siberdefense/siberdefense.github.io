@@ -36,17 +36,11 @@ MSHS room 5102
 
 ## When
 
-**2022-2023 Meeting Schedule**
+**2023-2024 Meeting Schedule**
 
-2:45pm - 4:00pm on alternating Wednesdays when school is in session.
+2:45-4:00 pm on Mondays, when school is in session.
 
-| Month     | Days       |
-| ----------| -----------|
-| January   | 4, 18      |
-| February   | 1, 15      |
-| March     | 1, 15, 29  |
-| April     | 5, 19      |
-| May       | 3, 17      |
+Our first meeting this year will be Sept 11th.
 
 ## Why
 
