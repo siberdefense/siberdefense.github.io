@@ -5,7 +5,7 @@ title: "Resources"
 
 Assorted resources referenced during club meetings.
 
-##  Career Resources
+## Career Resources
 
 - [The Cyber Security
   Profession](https://docs.google.com/presentation/d/1-s8vyxrRhlyQDaov2C8ct-h9T8kmwJBWKd2Nh_HXSjU/edit?hl=en&forcehl=1#slide=id.p) - presentation slides
@@ -34,6 +34,7 @@ Assorted resources referenced during club meetings.
 
 ## Training
 
+- [CryptoPals](https://cryptopals.com/): Practical Cryptography Challenges
 - [Roppers Academy: Computing Fundamentals](https://www.roppers.org/courses/fundamentals)
 - [Roppers Academy: Practical Networking](https://www.roppers.org/courses/networking)
 - [Roppers Academy: CTF Bootcamp](https://www.roppers.org/courses/ctf)
