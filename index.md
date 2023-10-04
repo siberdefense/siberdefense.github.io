@@ -12,21 +12,27 @@ title: "Join the MSHS Siber Defense Club"
 
 Attendance is free and always open.
 
-No experience required, but a little programming practice helps a lot. Come
-willing to learn and consider enrolling in the one of the various Computer
-Science courses available at MSHS to supercharge your security skills.
+No experience required. Come willing to learn and consider enrolling
+in one of the various Computer Science courses available at MSHS 
+to supercharge your security skills.
 
-Bring your laptop! Most exercises work with district-provided devices, but
-sometimes having your own device is helpful to experiment with new software
-tools. In these cases the club has a limited quantity of devices that students
-may borrow during club meetings.
+Bring your laptop! Many exercises work with district-provided devices. But 
+having your own device is helpful to experiment with new software tools. 
+The club also provides devices for students to use during club meetings and events.
 
 ## What
 
 **Solve hands on information security challenges.**
 
-A typical meeting starts with a topic introduction and then students dive into a
-challenge with instructors there to help.
+The club holds both weekly club meetings, 
+as well as various off hours competition/events.
+Attendance is always optional.
+
+A typical meeting starts with a topic introduction and then students 
+dive into a challenge with instructors there to help.
+
+On and off hours cyber competitions, as teams and individuals events,
+are held in-person and on-line, and tackle Cyber Security challenges.
 
 We encourage students to work together and help each other.
 
@@ -36,11 +42,13 @@ MSHS room 5102
 
 ## When
 
-**2023-2024 Meeting Schedule**
+**2023-2024 Club Meeting Schedule**
 
 2:45-4:00 pm on Mondays, when school is in session.
+   No school (so no club)...
+    on Mondays Oct 9th, Dec 18th & 25th, Jan 1st 15th & 22nd, Feb 19th, Apr 8th, May 27th
 
-Our first meeting this year will be Sept 11th.
+Competitions may occur during club meetings as well as off hours when necessary.  
 
 ## Why
 
