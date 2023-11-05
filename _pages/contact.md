@@ -5,7 +5,7 @@ title: "Club Contact Info"
 
 ## Club Registration
 
-New members please [register here](https://forms.gle/bfxEMaowUwN2g4mQA).
+New members [register here](https://forms.gle/bfxEMaowUwN2g4mQA).
 
 ## Email the Coaches
 
