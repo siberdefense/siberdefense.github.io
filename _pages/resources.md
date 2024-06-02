@@ -43,6 +43,7 @@ Assorted resources referenced during club meetings.
   [2021](https://2021.angstromctf.com/), [2020](https://2020.angstromctf.com/),
   [2019](https://2019.angstromctf.com/), [2018](https://2018.angstromctf.com/), [2017](https://2017.angstromctf.com/)
 - [DFIRDiva's Resources](https://training.dfirdiva.com/listing-category/training-for-kids)
+- [Exploit Education](https://exploit.education/)
 
 ## Cryptography
 
