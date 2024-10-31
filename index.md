@@ -42,13 +42,11 @@ MSHS room 4204
 
 ## When
 
-**2023-2024 Club Meeting Schedule**
+**2024-2025 Club Meeting Schedule**
 
-2:45-4:00 pm on Mondays, when school is in session.
-   No school (so no club)...
-    on Mondays Oct 9th, Dec 18th & 25th, Jan 1st 15th & 22nd, Feb 19th, Apr 8th, May 27th
+2:45-4:00 pm on Mondays, when school is in session. If there is no school, there is no club meeting.
 
-Competitions may occur during club meetings as well as off hours when necessary.  
+Competitions may occur during club meetings as well as off hours when necessary.
 
 ## Why
 
