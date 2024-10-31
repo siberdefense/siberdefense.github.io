@@ -38,7 +38,7 @@ We encourage students to work together and help each other.
 
 ## Where
 
-MSHS room 5102
+MSHS room 4204
 
 ## When
 
